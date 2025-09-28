@@ -1,0 +1,8 @@
+#MATLAB/Simulinktemporaryandauto−generatedfiles
+∗.asv,∗.mat,∗.fig,∗.log,∗.mex∗,∗.slx.part
+#IgnoreOS−specificfiles
+.DS_Store
+Thumbs.db
+#Ignoregeneratedoutputsandprocesseddata
+/4_results/
+/2_data/processed_data/
