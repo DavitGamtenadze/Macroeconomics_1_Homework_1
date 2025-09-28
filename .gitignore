@@ -3,6 +3,13 @@
 #IgnoreOS−specificfiles
 .DS_Store
 Thumbs.db
-#Ignoregeneratedoutputsandprocesseddata
-/4_results/
-/2_data/processed_data/
+/4_results/*
+!/4_results/.gitkeep
+!/4_results/figures/
+!/4_results/tables/
+/4_results/figures/*
+!/4_results/figures/.gitkeep
+/4_results/tables/*
+!/4_results/tables/.gitkeep
+/2_data/processed_data/*
+!/2_data/processed_data/.gitkeep
